@@ -1,0 +1,70 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-image: url(../public/R.jpg);
+    border-radius: 20px;
+}
+
+#calculator {
+    border-radius: 5px;
+    border: 3px;
+    align-content: center;
+    align-items: center;
+    background-color: chocolate;
+    text-align: center;
+    height: 550px;
+    width: 400px;
+}
+
+#name {
+    border-radius: 5px;
+    height: 20px;
+    width: 200px;
+}
+
+#weight {
+    border-radius: 5px;
+    height: 20px;
+    width: 100px;
+}
+
+#height {
+    border-radius: 5px;
+    height: 20px;
+    width: 100px;
+}
+
+#calculate {
+    margin-top: 15px;
+    border-radius: 5px;
+    height: 25px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#result {
+    background-color: aliceblue;
+    margin: 3px;
+    height: 100px;
+    width: 394px;
+}
+
+#artigo {
+    border-radius: 10px;
+    margin-left: -300px;
+    height: 500px;
+    width: 1000px;
+    background-color: black;
+}
+
+#titulo {
+    margin-top: 200px;
+    color: aliceblue;
+    align-items: center;
+}
+
+p {
+    margin: 15px;
+    color: aliceblue;
+    align-items: center;
+}
